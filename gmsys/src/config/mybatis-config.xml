@@ -11,7 +11,7 @@
  
   <mappers>
   	<mapper resource="com/neuedu/mapper/UserAccountMapper.xml"/>
-  	<!-- <mapper resource="com/neuedu/mapper/CategoryMapper.xml"/> -->  	
+  	<mapper resource="com/neuedu/mapper/CategoryMapper.xml"/> 	
   </mappers>
 
 </configuration>
